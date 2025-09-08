@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jude234
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.judetill.com
+  * I am jude234 (https://keybase.io/jude234) on keybase.
+  * I have a public key ASCEPeP9j5aC1vuhxMIJyNvugEIONMX5qYFF7sK6zXOkZAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120843de3fd8f9682d6fba1c4c209c8dbee80420e34c5f9a98145eec2bacd73a4640a",
+      "host": "keybase.io",
+      "kid": "0120843de3fd8f9682d6fba1c4c209c8dbee80420e34c5f9a98145eec2bacd73a4640a",
+      "uid": "fad1ca64d154adcc581bb19170250519",
+      "username": "jude234"
+    },
+    "merkle_root": {
+      "ctime": 1615604593,
+      "hash": "edea0803ff8a62c52ddcd99f2d3d3fcb71803b91811141ef383a669f54810d00c07b4222daf99830ed1f746f20a0403270f759c0fc4b715ba25842636dc9d803",
+      "hash_meta": "e7e56b9dfded70f6cbbd5183d76cb831aaf7cb4ac4fcaf8dfa0c2d2563d1f988",
+      "seqno": 19361303
+    },
+    "service": {
+      "entropy": "/xOyuQXaC8IGABBBGp77rkwl",
+      "hostname": "www.judetill.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1615604610,
+  "expire_in": 504576000,
+  "prev": "20ac094ede53041cafbc9f3da1ece94b1a9f2a0968f7102f7b48e2f7d9b9cbbc",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghD3j/Y+Wgtb7ocTCCcjb7oBCDjTF+amBRe7Cus1zpGQKp3BheWxvYWTESpcCC8QgIKwJTt5TBByvvJ89oezpSxqfKglo9xAve0ji99m5y7zEIMEUYMi4kafiH6KvoRXETpD4LsuGaBTRTFF7ERHCzYE4AgHCo3NpZ8RAOgwgBfXBCyjeR5pQlGgaPmZ0u3M41DQa6oLWjOuQRMv0cwfi46+FRj6FGXSmZIVREsXt//p4QcoPBRqHjsutCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJMfnLuxNIzXDwe4qdYwTclP8JUqZ/xS+S606oOleBs1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jude234
+
+==================================================================
